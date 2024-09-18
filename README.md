@@ -10,15 +10,10 @@
   <samp>
    <a href="https://github.com/karlaklima/Karlaklima/blob/main/README.md">Read about me (Portuguese version)</a> 
     
-## My educational background: 
-
-##### 🌱 Currently pursuing
+## My educational background 🌱: 
 
 - ###### Systems Analysis and Development - [Universidade Anhembi Morumbi](https://portal.anhembi.br/institucional/)
 - ###### Technological Chemistry - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
-
-##### 👩🏻‍🎓 Completed 
-
 - ###### Bachelor's Degree in Interdisciplinary Studies [ProFIS](https://www.prg.unicamp.br/curso-profis/) - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) 
 - ###### Research in International Economic Relations - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 - ###### Scientific Research Summer High School Program, Ciência e Arte, [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
